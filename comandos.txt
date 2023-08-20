@@ -1,0 +1,38 @@
+MILE@DESKTOP-Q50GKHD MINGW64 /d/MILE/proyecto-git/Chekpoint-MileidyDavila-16_08_2023 (main)
+$ history
+    1  it log
+    2  git log
+    3  git branch -m main
+    4  clear
+    5  history
+    6  ls
+    7  clear
+    8  git branch <feature>
+    9  git branch "feature"
+   10  git branch --list
+   11  git checkout feature
+   12  mkdir Hardware Sofware SeguridadInformatica
+   13  cd Hardware/
+   14  touch resumen.txt
+   15  cd ..
+   16  cd Sofware/
+   17  touch resumen.txt
+   18  cd ..
+   19  cd SeguridadInformatica/     
+   20  touch resumen.txt
+ileidyDavila"
+   26  git log
+   27  git push origin feature
+   28  git status
+   29  git checkout main
+   30  mv index.html resumenSoftware.txt
+   31  mv main.js resumenHardware.txt
+   32  touch comandos.txt
+   33  history
+
+   los comandos que use para vincular el repository que cree a mi local y para crear las capetas main.js y index.html fueron:
+   1  git remote add origin ttps://github.com/ydielim93/Checkpoint-MileidyDavila-16_08_2023.git
+   2  mkdir main.js index.html
+
+   no estan registrados en el History ya que los pasos los realice el miercoles 16/08/2023
+   y no los guarde.  

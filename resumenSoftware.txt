@@ -1,0 +1,3 @@
+windows
+GNU/Linux
+macOS.
